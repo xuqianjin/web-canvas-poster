@@ -1,0 +1,36 @@
+{
+  "name": "canvasposter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel lib -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuqianjin/CanvasPoster.git"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "xuqianjin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuqianjin/CanvasPoster/issues"
+  },
+  "homepage": "https://github.com/xuqianjin/CanvasPoster#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-class-properties": "^7.4.4",
+    "@babel/preset-env": "^7.4.5"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "Android >= 3.2",
+    "Firefox >= 20",
+    "iOS 7"
+  ]
+}
