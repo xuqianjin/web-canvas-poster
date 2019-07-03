@@ -9996,6 +9996,11 @@ wbuf@^1.1.0, wbuf@^1.7.3:
   dependencies:
     minimalistic-assert "^1.0.0"
 
+web-canvas-poster@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/web-canvas-poster/-/web-canvas-poster-1.0.0.tgz#84e28c72a6c62c5e0a314120794dba035a08b4be"
+  integrity sha512-fwvawDYPnbf3vwZ/nh9bY7Zshns/Gpv8w2qdI9h9YVpTdEMob5K+lE4buJJmZy7RCWTPeHb5SLMYJ3ijfZp6gw==
+
 web-namespaces@^1.1.2:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/web-namespaces/-/web-namespaces-1.1.3.tgz#9bbf5c99ff0908d2da031f1d732492a96571a83f"

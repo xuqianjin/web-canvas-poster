@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import QRCode from "qrcode";
 
-import CanvasPoster from "canvasposter";
+import CanvasPoster from "web-canvas-poster";
 
 export default class extends React.Component {
   constructor(props) {
