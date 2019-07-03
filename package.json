@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xuqianjin/CanvasPoster.git"
+    "url": "git+https://github.com/xuqianjin/web-canvas-poster.git"
   },
   "keywords": [
     "canvas"
@@ -16,9 +16,9 @@
   "author": "xuqianjin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xuqianjin/CanvasPoster/issues"
+    "url": "https://github.com/xuqianjin/web-canvas-poster/issues"
   },
-  "homepage": "https://github.com/xuqianjin/CanvasPoster#readme",
+  "homepage": "https://github.com/xuqianjin/web-canvas-poster#readme",
   "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.4.4",
