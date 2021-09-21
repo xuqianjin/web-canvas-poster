@@ -2500,10 +2500,6 @@ caniuse-lite@^1.0.30000939, caniuse-lite@^1.0.30000955, caniuse-lite@^1.0.300009
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000978.tgz#1e3346c27fc46bce9ac1ccd77863153a263dde56"
   integrity sha512-H6gK6kxUzG6oAwg/Jal279z8pHw0BzrpZfwo/CA9FFm/vA0l8IhDfkZtepyJNE2Y4V6Dp3P3ubz6czby1/Mgsw==
 
-"canvasposter@https://github.com/xuqianjin/CanvasPoster.git":
-  version "1.0.0"
-  resolved "https://github.com/xuqianjin/CanvasPoster.git#bad61504e54a2db2e026cf58a6e6e149e2bc7fb6"
-
 capture-exit@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/capture-exit/-/capture-exit-2.0.0.tgz#fb953bfaebeb781f62898239dabb426d08a509a4"
@@ -9548,9 +9544,9 @@ tmp@^0.0.33:
     os-tmpdir "~1.0.2"
 
 tmpl@1.0.x:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.4.tgz#23640dd7b42d00433911140820e5cf440e521dd1"
-  integrity sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE=
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/tmpl/-/tmpl-1.0.5.tgz#8683e0b902bb9c20c4f726e3c0b69f36518c07cc"
+  integrity sha512-3f0uOEAQwIqGuWW2MVzYg8fV/QNnc/IpuJNG837rLuczAaLVHslWHZQj4IGiEl5Hs3kkbhwL9Ab7Hrsmuj+Smw==
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"
